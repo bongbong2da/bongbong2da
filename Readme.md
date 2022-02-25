@@ -17,4 +17,4 @@
 <img src="https://img.shields.io/badge/MobX-FF9955?style=for-the-badge&logo=Mobx&logoColor=black"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=black"/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bongbong2da&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bongbong2da&show_icons=true&theme=darcula )](https://github.com/anuraghazra/github-readme-stats)
